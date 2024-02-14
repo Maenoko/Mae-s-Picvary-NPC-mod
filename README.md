@@ -18,14 +18,17 @@ Enjoy your play!
 
 # What is the mod for?
 
-1. Display NPC's face on sidebar, facial emotion varies from their ATTITUDE (lust, love, etc.).
+1. Display NPC's face on sidebar
+![002](https://github.com/Maenoko/Mae-s-Picvary-NPC-mod/assets/143473684/53666a4b-f4b5-416f-a31c-60bc61c36063)
+
+2. Facial emotion varies from their ATTITUDE (lust, love, etc.).
 ![003](https://github.com/Maenoko/Mae-s-Picvary-NPC-mod/assets/143473684/636cc825-02f8-4519-b7a6-07b9a12b6239)
 
-2. Facial emotion changes during combat according to their STATUS (health, trust, etc.).
+3. Facial emotion changes during combat according to their STATUS (health, trust, etc.).
 ![004](https://github.com/Maenoko/Mae-s-Picvary-NPC-mod/assets/143473684/3a5e993c-1381-4978-8031-e05221cc116b)
 
-3. Some of the NPC change their appearance after certain events, this also make difference on how they looks in sidebar.
+4. Some of the NPC change their appearance after certain events, this also make difference on how they looks in sidebar.
 ![005](https://github.com/Maenoko/Mae-s-Picvary-NPC-mod/assets/143473684/cf30a10f-5ec2-4cfb-a11f-cc922acf554a)
 
-4. For NPC who have random hair colour in different game turn, show their real hair colour in sidebar sprites (as I'm still working on it, this only works on Robin and Kylar for now).
+5. For NPC who have random hair colour in different game turn, show their real hair colour in sidebar sprites (as I'm still working on it, this only works on Robin and Kylar for now).
 ![000-7](https://github.com/Maenoko/Mae-s-Picvary-NPC-mod/assets/143473684/acac6d84-5f3d-4e25-aa8f-c1c1bea32514)
