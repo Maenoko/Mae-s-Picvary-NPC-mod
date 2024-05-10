@@ -1,7 +1,7 @@
 
-# Mea's Picvary NPC all mod (1.2.0)
+# Mea's Picvary NPC all mod (1.2.1)
 
-![view3](https://github.com/Maenoko/Mae-s-Picvary-NPC-mod/assets/143473684/6144d978-878e-4ae2-91e3-52ab9e360493)
+![view3](https://github.com/Maenoko/Mae-s-Picvary-NPC-mod/assets/143473684/c482e84f-3496-4742-ba3e-8a9700b86a2f)
 
 ※Important: Modloader required for loading this mod, check the link below for downloading:
            https://github.com/Lyoko-Jeremie/sugarcube-2-ModLoader
