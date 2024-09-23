@@ -1,5 +1,5 @@
 
-# Mea's Picvary NPC all mod (1.2.1)
+# Mea's Picvary NPC all mod (1.3.2)
 
 ![view3](https://github.com/Maenoko/Mae-s-Picvary-NPC-mod/assets/143473684/c482e84f-3496-4742-ba3e-8a9700b86a2f)
 
